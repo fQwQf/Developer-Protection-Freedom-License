@@ -107,4 +107,4 @@ DPFL itself is open-sourced under the DPFL license, and any developers are welco
 
 ---
 
-By choosing the **Developer Protection & Freedom License**, you join a movement that values developer rights, transparency, and ethical practices. Let’s work together to build a more open and fair future.
+By choosing the **Developer Protection & Freedom License**, you join a movement that values developer rights, transparency, and ethical practices. Let’s work together to build a more open and fair future!
