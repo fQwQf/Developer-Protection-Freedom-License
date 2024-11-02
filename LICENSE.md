@@ -6,7 +6,7 @@ Software Copyright © 2024 fQwQf fQwQf6@outlook.com
 
 **Copyright Statement**
 
-In this document, unless otherwise specified, the software refers to Developer Protection & Freedom License, and the developer refers to fQwQf(email address : fQwQf6@outlook.com).  
+In this document, unless otherwise specified, the software refers to Developer Protection & Freedom License, and the developer refers to fQwQf.  
 The copyright of this software remains with the developer. This open-source agreement is essentially a copyright license agreement that allows the rights holder to conditionally permit specific rights to the public. Users are granted the right to use, copy, modify, and redistribute this software, provided they comply with the terms of this agreement, but this agreement does not transfer the copyright of the software.
 
 **1. Usage Rights**
